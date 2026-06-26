@@ -1,0 +1,23 @@
+{
+  "url": "https://raw.githubusercontent.com/dimii27/dimii27-mybible-orthodox-modules/main/dimii27.registry.json",
+  "file_name": "dimii27.registry.json",
+  "description": "Orthodox Bible Modules by dimii27",
+  "modules": [
+    {
+      "download_url": "https://raw.githubusercontent.com/dimii27/dimii27-mybible-orthodox-modules/main/LXX-NTPT.SQLite3",
+      "file_name": "LXX-NTPT.SQLite3",
+      "language_code": "grc",
+      "description": "Complete Greek Orthodox Bible unifying Septuagint (Swete) and Patriarchal Text (2003)",
+      "update_date": "2026-06-27",
+      "update_info": "(2026-06-27) Merged and Published"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/dimii27/dimii27-mybible-orthodox-modules/main/EOFB.SQLite3",
+      "file_name": "EOFB.SQLite3",
+      "language_code": "en",
+      "description": "Complete English Orthodox Bible unifying Brenton Septuagint 2012 and Eastern Orthodox New Testament (EOB)",
+      "update_date": "2026-06-27",
+      "update_info": "(2026-06-27) Merged and Published"
+    }
+  ]
+}
