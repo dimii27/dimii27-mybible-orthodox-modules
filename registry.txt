@@ -1,0 +1,2 @@
+LXX-NTPT.sqlite	10485760	Greek Orthodox Bible (LXXSw + NTPT+)	grc	Greek	Complete Greek Orthodox Bible unifiying Septuagint (Swete) and Patriarchal Text (2003)
+EOFB.sqlite	12582912	English Orthodox Bible (Brenton + EOB)	en	English	Complete English Orthodox Bible unifying Brenton Septuagint 2012 and Eastern Orthodox New Testament
